@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .logo img {
+    width: 60px; /* Adjust as needed */
+  }
+  
+  .button-container {
+    margin-left: auto; /* Pushes the button to the right */
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #c42424;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #790707;
+  }
+  
